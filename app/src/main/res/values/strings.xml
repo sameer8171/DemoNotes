@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Demo Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="signup">SignUp</string>
+    <string name="login_hading">Already have an account? <font color = "#2196f3" > Login</font></string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login">Login</string>
+    <string name="register_hading">Don\'t have an account? <font color = "#2196f3" > Register Now</font></string>
+    <string name="email">Email</string>
+    <string name="notes">Notes</string>
+    <string name="enter_note">Enter Note</string>
+    <string name="title">Title</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
